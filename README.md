@@ -8,7 +8,7 @@ A spring-boot project that demonstrates data caching using Redis
 
 **SAMPLE PAYLOADS**
 
-**Create User**
+1. **Create User**
 
 **Url** = http://localhost:8080/user
 
@@ -20,7 +20,7 @@ A spring-boot project that demonstrates data caching using Redis
 }
 ```
 
-**Edit User**
+2. **Edit User**
 
 **Url** = http://localhost:8080/user
 
@@ -33,19 +33,20 @@ A spring-boot project that demonstrates data caching using Redis
 }
 ```
 
-**Find User**
+3. **Find User**
 
 **Url** = http://localhost:8080/user/4
 
 **Method** = GET
 
-**List All Users**
+4. **List All Users**
 
 **Url** = http://localhost:8080/user
 
 **Method** = GET
 
-**Delete User**
+5. **Delete User**
+
 **Url** = http://localhost:8080/user/4
 
 **Method** = DELETE
