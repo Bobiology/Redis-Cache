@@ -1,5 +1,5 @@
 # Redis-Cache
-A spring-boot project that demonstrate data caching using Redis
+A spring-boot project that demonstrates data caching using Redis
 
 **Setup**
 - Install Redis server. Download from https://redis.io/docs/getting-started/installation/
