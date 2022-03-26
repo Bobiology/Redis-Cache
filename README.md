@@ -6,9 +6,10 @@ A spring-boot project that demonstrates data caching using Redis
 - Ensure you have Maven setup locally
 - Use an IDE that supports Kotlin
 
-Sample Payloads
+**SAMPLE PAYLOADS**
 
 **Create User**
+
 **Url** = http://localhost:8080/user
 
 **Method** = POST
@@ -20,6 +21,7 @@ Sample Payloads
 ```
 
 **Edit User**
+
 **Url** = http://localhost:8080/user
 
 **Method** = PUT
@@ -32,11 +34,13 @@ Sample Payloads
 ```
 
 **Find User**
+
 **Url** = http://localhost:8080/user/4
 
 **Method** = GET
 
 **List All Users**
+
 **Url** = http://localhost:8080/user
 
 **Method** = GET
